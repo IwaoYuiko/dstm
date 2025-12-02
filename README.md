@@ -6,4 +6,4 @@
 [お問い合わせはこちら（Googleフォーム）](https://forms.gle/Z8P3XiRhkorwVno27)
 
 ## Privacy policy
-[プライバシーポリシーはこちら](　)
+[プライバシーポリシーはこちら](https://iwaoyuiko.github.io/dstm/privacy-policy.html)
