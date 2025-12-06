@@ -3,7 +3,7 @@
 
 ## Contact
 お問い合わせは、以下の窓口にご連絡ください。
-[お問い合わせはこちら（Googleフォーム）](https://forms.gle/fR2DXBtnVG92Veds5)
+[お問い合わせはこちら（Googleフォーム）](https://forms.gle/pzipWXnYzrCtRopNA)
 
 ## Privacy policy
 [プライバシーポリシーはこちら](https://iwaoyuiko.github.io/dstm/privacy-policy.html)
